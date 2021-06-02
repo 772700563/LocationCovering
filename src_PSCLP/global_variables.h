@@ -16,7 +16,7 @@
 #include <algorithm>
 
 //#include </home/fabio/ILOG/CPLEX_Studio_AcademicResearch127/cplex/include/ilcplex/cplex.h>
-#include <cplex.h>
+#include <ilcplex/cplex.h>
 
 using namespace std;
 
